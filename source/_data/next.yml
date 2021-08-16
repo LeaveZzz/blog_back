@@ -113,7 +113,7 @@ sidebar:
 
 # 头像设置
 avatar:
-  url: https://gitee.com/leaveHao/Picturebed/raw/master/E-SHOP/Leo_Avatar.jpg
+  url: https://gitee.com/leaveHao/Picturebed/raw/master/common/Leo_Avatar.jpg
   rounded: true
   rotated: true
 

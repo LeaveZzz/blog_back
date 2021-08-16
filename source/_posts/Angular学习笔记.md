@@ -1,5 +1,5 @@
 ---
-title: AngularJS基本语法
+title: AngularJS学习笔记
 abbrlink: 16107
 date: 2020-06-09 9:03:41
 description: Angular环境搭建、创建项目、运行项目、基本语法。
