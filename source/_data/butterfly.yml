@@ -36,9 +36,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/leaveHao || Github
-	fab fa-git-square: https://gitee.com/leaveHao || Gitee  
-	fa fa-code: http://www.leospace.cn || Website
+  fab fa-github: https://github.com/LeaveZzz || Github
+	fab fa-git-square: https://gitee.com/withLeaveZzz || Gitee  
+	fa fa-code: http://www.iseeu.top || Website
   fas fa-envelope: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGhhZXJhbGVrRGJrfGllbWgqZ2tp || Email
 
 # search (搜索)
@@ -88,7 +88,7 @@ favicon: /images/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://gitee.com/leaveHao/Picturebed/raw/master/common/Leo_Avatar.jpg
+  img: https://gitee.com/withLeaveZzz/Picturebed/raw/master/common/Leo_Avatar.jpg
   effect: false
 
 # the banner image of home page

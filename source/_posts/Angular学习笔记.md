@@ -78,7 +78,7 @@ ng g component 目录+组件名
 ```JAVASCRIPT
 public message:any = 'hello world';
 public userInfo:object = {
-  userName : 'leaveHao',
+  userName : 'leave',
   age : 22
 };
 ```
@@ -88,7 +88,7 @@ public userInfo:object = {
 ```JAVASCRIPT
 message = 'hello world';
 userInfo:object = {
-  name : 'leaveHao',
+  name : 'leave',
   age : 22
 };
 ```

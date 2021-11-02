@@ -4,11 +4,11 @@
 
 # Site
 # title: 很高兴遇见你😀
-title: LeaveH
+title: Leave
 subtitle: '很高兴遇见你😀'
 description: ''
 keywords:
-author: LeaveHao
+author: Leave
 language: zh-CN
 timezone: ''
 
@@ -105,7 +105,7 @@ theme: butterfly
 deploy:
   type: git
   repo: 
-		github: https://github.com/leaveHao/leaveHao.github.io.git
+		github: https://github.com/LeaveZzz/leave.github.io.git
 		coding: https://e.coding.net/leavehao/blog/blog.git
   branch: master
 	

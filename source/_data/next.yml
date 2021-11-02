@@ -113,15 +113,15 @@ sidebar:
 
 # 头像设置
 avatar:
-  url: https://gitee.com/leaveHao/Picturebed/raw/master/common/Leo_Avatar.jpg
+  url: https://gitee.com/withLeaveZzz/Picturebed/raw/master/common/Leo_Avatar.jpg
   rounded: true
   rotated: true
 
 # 社交链接
 social:
-  GitHub: https://github.com/leaveHao || fab fa-github
-  Gitee: https://gitee.com/leaveHao || fab fa-git-square
-  Website: http://www.leospace.cn || fa fa-code
+  GitHub: https://github.com/withLeaveZzz || fab fa-github
+  Gitee: https://gitee.com/LeaveZzz || fab fa-git-square
+  Website: http://www.iseeu.top || fa fa-code
 	E-mail: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGhhZXJhbGVrRGJrfGllbWgqZ2tp || fa fa-envelope
 
 # 社交链接设置是否只显示图标
@@ -233,7 +233,7 @@ bookmark:
 # 右上角显示GitHub图标
 github_banner:
   enable: false
-  permalink: https://github.com/leaveHao
+  permalink: https://github.com/LeaveZzz
   title: Follow me on GitHub
 
 # ------- #
